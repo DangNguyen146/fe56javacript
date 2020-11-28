@@ -1,7 +1,7 @@
 console.log("Hello Cybersoft");
 
 function themNguoiDung() {
-    console.log("dnnguyen themNguoiDung");
+    console.log("dpnguyen2 themNguoiDung");
 }
 /**
  * Biến
